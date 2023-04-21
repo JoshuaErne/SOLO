@@ -40,8 +40,11 @@ We ran our model for 40 epochs on the entire dataset using the Google Colab GPU,
 - Download the dataset from
 
 [Images](https://drive.google.com/file/d/1Xyo9voEtL8fFf0gh7NY8L0cC6z8mZDrl/view?usp=share_link)
+<br>
 [Masks](https://drive.google.com/file/d/1GPiIFdKIuKZ03tpC5vWluD8RZMAbI7Tv/view?usp=share_link)
+<br>
 [Labels](https://drive.google.com/file/d/18Ug7UI55wzIrflL-PuovJoRP2-FTxMzV/view?usp=share_link)
+<br>
 [Bboxes](https://drive.google.com/file/d/1e3il3wqT4rfUeVLAYFP_Q1hV7_8VgDtM/view?usp=share_link)
 
 - Change the path in the Python Notebook
