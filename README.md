@@ -33,3 +33,16 @@ We ran our model for 40 epochs on the entire dataset using the Google Colab GPU,
   <img src="/Images/output_human.png" hspace="20"/>
   <img src="/Images/output_vehicle.png"/>
 </p>
+
+
+# To Run
+
+- Download the dataset from
+
+[Images](https://drive.google.com/file/d/1Xyo9voEtL8fFf0gh7NY8L0cC6z8mZDrl/view?usp=share_link)
+[Masks](https://drive.google.com/file/d/1GPiIFdKIuKZ03tpC5vWluD8RZMAbI7Tv/view?usp=share_link)
+[Labels](https://drive.google.com/file/d/18Ug7UI55wzIrflL-PuovJoRP2-FTxMzV/view?usp=share_link)
+[Bboxes](https://drive.google.com/file/d/1e3il3wqT4rfUeVLAYFP_Q1hV7_8VgDtM/view?usp=share_link)
+
+- Change the path in the Python Notebook
+- Run Cells Accordingly
